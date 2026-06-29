@@ -1,0 +1,35 @@
+.header {
+    text-decoration: underline;
+}
+
+.orange-link {
+    color: orange;
+    text-decoration: underline;
+}
+
+.red-link {
+    color: red;
+    text-decoration: underline;
+}
+
+.yellow-highlight {
+    background-color: yellow;
+    color: blue;
+    border: 1px solid blue;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+ul ul {
+    list-style-type: circle;
+}
